@@ -1,0 +1,38 @@
+
+
+.container{
+  max-width: 1200px;
+  margin: auto;
+}
+.table-container table{
+  width: 100%;
+}
+.table-container th{
+  padding: 10px;
+}
+.btn-primary{
+  background-color: #674188!important;
+}
+.btn-danger{
+  background-color: #dc3545!important;
+}
+.btn-info{
+  background-color: #33bee5!important;
+}
+.btn:hover{
+  transform: translateY(-2px)!important;
+}
+.btn{
+  padding: 10px;
+  margin: 0 5px;
+}
+a{
+  display: block;
+  text-decoration: none;
+  color: #fff;
+}
+
+.err-msg{
+  color: #dc3545;
+  display: block;
+}
